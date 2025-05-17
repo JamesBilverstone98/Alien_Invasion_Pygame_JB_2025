@@ -5,5 +5,5 @@ Alien Invasion was created using the Pygame package.
 
 The goal of the game is to shoot down a fleet of aliens as they drop down the screen, in levels that increase in speed and difficulty.
 
-**DISCLAIMER** 
+**DISCLAIMER** ---
 This is not my code. It is the code provided to you in the Python Crash Course book. I followed the steps to create this 2D game as one of the projects outlined in the book.
